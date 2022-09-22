@@ -18,11 +18,11 @@ header {
   padding-right: 1.5em;
 }
 
-header > ul > * {
-  font-size: 1.5em;
+header .header-link {
+  font-size: 1.25em;
 }
 
-header > #home {
+header .home {
   font-weight: bold;
 }
 
